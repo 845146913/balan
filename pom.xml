@@ -13,7 +13,9 @@
 	
 	<modules>
 		<module>balan-core</module>       <!--核心业务模块 -->
-		<!--<module>balan-api</module>        &lt;!&ndash;接口,model,dto,通用组件 &ndash;&gt;-->
+		<!--<module>balan-common</module>        &lt;!&ndash;接口,model,dto,通用组件 &ndash;&gt;-->
+		<!--<module>balan-web</module>-->
+		<module>balan-single</module>
 	</modules>
 
 
